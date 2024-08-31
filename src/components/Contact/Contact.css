@@ -1,0 +1,27 @@
+.contactSection {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.contact-info-container {
+  display: flex;
+  justify-content: center;
+  border-radius: 2rem;
+  border: rgb(53, 53, 53) 0.1rem solid;
+  border-color: rgb(163, 163, 163);
+  margin: 0.5rem auto;
+  padding: 1.5rem 2rem;
+}
+
+.headLine a {
+  font-weight: 300;
+  text-decoration: none;
+  font-size: larger;
+  color: var(--text-color);
+  display: inline-block;
+  transition: transform 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+.headLine a:hover {
+  transform: scale(1.08);
+  
+}
