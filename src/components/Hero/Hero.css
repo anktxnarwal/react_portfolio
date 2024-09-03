@@ -60,7 +60,7 @@
   
   .colorMode {
     position: absolute;
-    right: 0;
+    right: 22%;
     width: 25px;
   }
   
@@ -69,6 +69,7 @@
   }
   
   .description {
+    align-self: center;
     max-width: 24ch;
   }
   
