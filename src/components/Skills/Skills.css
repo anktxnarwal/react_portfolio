@@ -17,8 +17,10 @@
   justify-content: space-evenly;
   align-self: center;
   flex-wrap: wrap;
+  width: 80%;
   row-gap: 40px;
   min-width: 26ch;
+  column-gap: 5px;
 }
 hr {
   width: 100px;

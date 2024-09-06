@@ -28,7 +28,8 @@ const projectData = [
       "https://img.freepik.com/free-photo/lock-front-side-with-white-background_187299-39892.jpg?t=st=1724940908~exp=1724944508~hmac=d1cd5ee09516f47389202bfc0ece7cc6f612285844dfb7ec09bb79b2b4570273&w=740",
     name: "Password Generator",
     categories: "Complex JavaScript",
-    githubLink: "https://github.com/anktxnarwal/password-generator",
+    githubLink:
+      "https://github.com/anktxnarwal/javascript-projects/tree/main/password-generator",
   },
 ];
 export default projectData;

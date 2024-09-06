@@ -10,6 +10,7 @@ function Skills() {
         <SkillList src={checkedIcon} skill="HTML5" />
         <SkillList src={checkedIcon} skill="CSS3" />
         <SkillList src={checkedIcon} skill="JavaScript" />
+        <SkillList src={checkedIcon} skill="TypeScript" />
       </div>
       <hr />
       <div className="skillList">
@@ -24,6 +25,7 @@ function Skills() {
       </div>
       <hr />
       <div className="skillList">
+        <SkillList src={checkedIcon} skill="C++" />
         <SkillList src={checkedIcon} skill="Python" />
       </div>
     </section>
