@@ -28,7 +28,7 @@ function Hero() {
           Ankit <br />
           Narwal
         </h1>
-        <h2>Frontend Developer</h2>
+        <h2>Web Developer</h2>
         <spna>
           <a href="https://www.linkedin.com/in/ankitxnarwal/" target="_blank">
             <img src={linkedinIcon} alt="Linkedin" />
@@ -41,8 +41,10 @@ function Hero() {
           </a>
         </spna>
         <p className="description">
-          Pro in React, Tailwind CSS, and JavaScript. Creates modern, responsive
-          web apps.
+          {/*  Pro in React, Tailwind CSS, and JavaScript. Creates modern, responsive
+          web apps. */}{" "}
+          Web Designer & Developer skilled in React, Tailwind CSS, and
+          JavaScript, currently exploring cybersecurity.
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
